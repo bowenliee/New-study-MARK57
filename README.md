@@ -3,5 +3,5 @@ An EEG decoding method for RSVP-BCI and **All you need is attention** <br>
 The codes will be uploaded after submitting the paper.
 # Experiment Log
 ## EXP 2023-03-04 
-`First`**`big`**experiment`
+`First``**big**``experiment`
 The structure has been fixed. And models have been trained for all subjects.<br> Performance will determine whether to continue the experiment or optimize the model further.
