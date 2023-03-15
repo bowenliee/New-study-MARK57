@@ -10,7 +10,9 @@ Here is a case for example.<br>
 ![sub5.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/sub5.png)<br>
 <b>multi-XGB-DIM</b><br>
 ![sub5_comparison.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/sub5_comparison.png)<br>
+All results will be shown later.
 
-
-All results will be shown in manuscript later.
+## EXP 2023-03-04 
+All results are shown below. It is indicated that I can continue the experiments.<br>
+![comparison.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/comparison.png)<br>
 
