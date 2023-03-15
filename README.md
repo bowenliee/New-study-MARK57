@@ -9,8 +9,8 @@ Here is a case for example.
 <details><summary><b>New model</b></summary>
 ![sub5.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/sub5.png)
 </details>
-<details><summary><b>multi-XGB-DIM</b></summary>
-<br>![sub5_comparison.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/sub5_comparison.png)<br>
+<details><summary><b>multi-XGB-DIM</b></summary><br>
+![sub5_comparison.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/sub5_comparison.png)
 </details>
 
 All results will be shown in manuscript later.
