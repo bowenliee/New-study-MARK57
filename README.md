@@ -7,11 +7,11 @@ The codes will be uploaded after submitting the paper.
 The structure has been fixed. And models have been trained for all subjects.<br> Performance will determine whether to continue the experiment or optimize the model further. Fortunately, the performance of this new model has improved compared with the previous mulitiple-XGB-DIM. <br>
 Here is a case for example.<br>
 <details><summary><b>New model</b></summary>
-  ### New model subject-dependent:
+  <b>New model subject-dependent:</b><br>
 ![sub5.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/sub5.png)<br>
  </details>
 <details><summary><b>multi-XGB-DIM</b></summary>
-  ### multi-XGB-DIM subject-dependent:
+  <b>multi-XGB-DIM subject-dependent:</b><br>
 ![sub5_comparison.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/sub5_comparison.png)<br>
 </details>
 All results will be shown later.
@@ -19,7 +19,7 @@ All results will be shown later.
 ## EXP 2023-03-05 
 All results are shown below. It is indicated that I can continue the experiments.<br>
 <details><summary><b>multi-XGB-DIM vs New model</b></summary>
-  ### subject-dependent:
+ <b>subject-dependent:</b><br>
 ![comparison.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/comparison.png)<br>
  </details>
  
@@ -45,4 +45,4 @@ Subject 6 N_G 25 BA 0.865219 ACC 0.946500 TPR 0.781250 FPR 0.050813 AUC 0.940643
 Subject 6 N_G 30 BA 0.864250 ACC 0.948375 TPR 0.777344 FPR 0.048844 AUC 0.940831<br>
  ...<br>
 </details>
-The performance of cross-subject model is even better than that of subject-dependent model. Please see **EXP 2023-03-04**
+The performance of cross-subject model is even better than that of subject-dependent model. Please see <b>EXP 2023-03-04</b>
