@@ -6,7 +6,7 @@ The codes will be uploaded after submitting the paper.
 `First`**`big`**`experiment`
 The structure has been fixed. And models have been trained for all subjects.<br> Performance will determine whether to continue the experiment or optimize the model further. Fortunately, the performance of this new model has improved compared with the previous mulitiple-XGB-DIM. <br>
 Here is a case for example.<br>
-<b>New model</b><br>
+<details><summary><b>New model</b></summary>
 ![sub5.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/sub5.png)<br>
 <b>multi-XGB-DIM</b><br>
 ![sub5_comparison.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/sub5_comparison.png)<br>
@@ -28,3 +28,4 @@ Subject 5 N_G 25 BA 0.863706 ACC 0.880688 TPR 0.846154 FPR 0.118742 AUC 0.928445
 Subject 5 N_G 30 BA 0.858223 ACC 0.881063 TPR 0.834615 FPR 0.118170 AUC 0.927787<br>
 Subject 5 N_G 35 BA 0.861719 ACC 0.880500 TPR 0.842308 FPR 0.118869 AUC 0.927867<br>
 Subject 5 N_G 40 BA 0.859733 ACC 0.880313 TPR 0.838462 FPR 0.118996 AUC 0.927082
+</details>
