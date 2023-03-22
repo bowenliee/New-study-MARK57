@@ -23,7 +23,7 @@ All results are shown below. It is indicated that I can continue the experiments
 ![comparison.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/comparison.png)<br>
  </details>
  
-## EXP 2023-03-04
+## EXP 2023-03-06
 This new model had good performance on CROSS-SUBJRCT classification. I used 22 subjects' data to train a cross-subject model, and the other 41 subjects' data were used as testing data. Here are two cases.
 <details><summary><b>New model subject-independent</b></summary>
 Subject 5 N_G 1 BA 0.817454 ACC 0.838063 TPR 0.796154 FPR 0.161245 AUC 0.876462<br>
@@ -46,3 +46,10 @@ Subject 6 N_G 30 BA 0.864250 ACC 0.948375 TPR 0.777344 FPR 0.048844 AUC 0.940831
  ...<br>
 </details>
 The performance of cross-subject model is even better than that of subject-dependent model. Please see <b>EXP 2023-03-04</b>
+
+## EXP 2023-03-07
+The cross-subject performance is very exciting.
+<details><summary><b>New model subject-independent</b></summary>
+![comparison.png](https://raw.githubusercontent.com/bowenliee/New-study-MARK57/master/example/cross-subject-auc.png)<br>
+</details>
+For the next period of time, I will be working on some tasks related to online systems and will temporarily pause updating the experimental results.
